@@ -1,0 +1,8 @@
+{
+  "name": "Recruiter Reach - Gemma 4 Cover Letter & Email Generator",
+  "description": "AI-powered application for job seekers to craft tailored cover letters and recruiter outreach emails using Gemma 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
